@@ -9,4 +9,4 @@ Dentre os conteúdos abordados estão os conhecimentos em React, NodeJS, Typescr
 
 Link do repositório do projeto backend: https://github.com/Juliana-Mr/Labeddit_Backend
 
-Link Do deply surge: https://projeto-labeddit-jm.surge.sh/login
+Link Do deply surge: https://projeto-labeddit-jm.surge.sh
